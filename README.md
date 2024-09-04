@@ -1,4 +1,8 @@
 # Machine-Learning-and-Generative-AI-for-Marketing
+by Yoon Hyup Hwang and Nicholas C. Burtch
+
+<img src="https://github.com/PacktPublishing/Machine-Learning-and-Generative-AI-for-Marketing/blob/main/Cover.png" alt="drawing" width="350"/>
+
 This is the code repository for [Machine Learning and Generative AI for Marketing](https://www.amazon.com/Machine-Learning-Generative-Marketing-data-driven/dp/1835889409), Published by Packt.
 
 **Take your data-driven marketing strategies to the next level using Python**
