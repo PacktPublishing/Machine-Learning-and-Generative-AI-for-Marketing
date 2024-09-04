@@ -1,5 +1,5 @@
 # Machine-Learning-and-Generative-AI-for-Marketing
-by Yoon Hyup Hwang and Nicholas C. Burtch
+by **Yoon Hyup Hwang** and **Nicholas C. Burtch**
 
 <img src="https://github.com/PacktPublishing/Machine-Learning-and-Generative-AI-for-Marketing/blob/main/Cover.png" alt="drawing" width="350"/>
 
